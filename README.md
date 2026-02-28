@@ -125,7 +125,7 @@ The project includes an **interactive Streamlit application** where users can ex
 
 ### 🔗 Live App URL
 
-👉 **[Click here to visit the Streamlit App](https://netflix-movies-and-tv-shows-clustering-ybhesjf8bwtnlslrpwqpaw.streamlit.app)**
+👉 **[Click here to visit the Streamlit App](https://netflix-movies-and-tv-shows-clustering.streamlit.app/)**
 
 > *Note: Replace the above link with your actual deployed Streamlit URL.*
 
